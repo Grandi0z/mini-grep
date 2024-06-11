@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <h3><b># Mini-Grep</b></h3>
+  <h3><b>#Mini-Grep</b></h3>
 
 </div>
 
@@ -14,7 +14,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[JOSEPH'S PORTFOLIO\] ](#-josephs-portfolio-)
+- [📖 \[Mini-grep\] ](#-mini-grep-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,7 +35,7 @@
 
 
 
-# 📖 [JOSEPH'S PORTFOLIO] <a name="about-project"></a>
+# 📖 [Mini-grep] <a name="about-project"></a>
 
 
 **[Mini-grep]** is a simple version of the classic command line search tool grep (globally search a regular expression and print). In the simplest use case, grep searches a specified file for a specified string. To do so, grep takes as its arguments a file path and a string. Then it reads the file, finds lines in that file that contain the string argument, and prints those lines.
@@ -45,7 +45,7 @@
 ### Tech Stack <a name="tech-stack"></a>
   <details>
     <ul>
-      <li><a href="https://www.rust-lang.org/fr">Ruby</a></li>
+      <li><a href="https://www.rust-lang.org/fr">RUST</a></li>
     </ul>
   </details>
 
